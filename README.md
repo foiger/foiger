@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @foiger
+- 👀 I’m interested in Machine Learning and Tensorflow
+- 🌱 I’m currently a 2nd year B.Tech CSE student 
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 How to reach me foiger.dreams@gmail.com
